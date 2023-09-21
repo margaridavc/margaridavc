@@ -7,7 +7,7 @@ I am a bachelor's student of Artificial Intelligence and Data Science at Faculda
 <img src="https://komarev.com/ghpvc/?username=margaridavc&style=flat-square&color=blue" alt=""/>
 
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=margaridavc&count_private=true&layout=compact&theme=tokyonight&include_fork=true&langs_count=6&hide=CSS,jupyter%20notebook](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=StrangeRanger&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)" />
+<img src="(https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=StrangeRanger&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)" />
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
