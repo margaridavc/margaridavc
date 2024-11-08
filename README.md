@@ -1,6 +1,7 @@
 # About Me
 
-I am a bachelor's student of Artificial Intelligence and Data Science at Faculdade de Ciências da Universidade do Porto.
+I have a bachelor's degree in  Artificial Intelligence and Data Science from Faculdade de Ciências (FCUP) and Faculdade de Engenharia (FEUP) da Universidade do Porto.
+At the moment doing a Master's degree in Data Science and Engeneering at FEUP and working as a Data Scientist and AI explorer
 
 ## Stats
 
